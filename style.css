@@ -93,6 +93,12 @@ link:hover {
 .step:nth-child(6) {
   top: 3000px;
 }
+.step:nth-child(7) {
+  top: 3500px;
+}
+.step:nth-child(8) {
+  top: 4000px;
+}
 
 #title {
   height: 50vh;

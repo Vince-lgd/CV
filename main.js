@@ -11,7 +11,7 @@ gsap.registerPlugin(ScrollTrigger);
 const simplex = new SimplexNoise();
 
 // Create circles, step circles and lines
-for (let i = 0; i < 1750; i++) {
+for (let i = 0; i < 2300; i++) {
   // Define it's a step every 250 circles (500px)
   const step = i % 250 === 0 && i !== 0;
   const div = document.createElement("div");
